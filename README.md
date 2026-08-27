@@ -158,15 +158,6 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 </p>
 
-<br>
-
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
-
-</div>
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>

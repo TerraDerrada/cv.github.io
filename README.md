@@ -46,137 +46,123 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <div align="center">
 
-<kbd>
-  <kbd>⚔️ Core Languages</kbd>
+<div align="center">
+
+<p style="display: inline-block;" align="center">
+
+  <!-- ⚔️ Core Languages -->
+  <kbd>
+    <kbd>⚔️ Core Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>🌐 Frameworks & Web Backend</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>🗄️ Database & Servers</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheflink/apacheflink-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>🛡️ Cloud, DevOps & Security</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tor/tor-original.svg" />
+  </kbd>
+
   <br><br>
 
-  <img height="30" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img height="30" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <kbd>
+    <kbd>🧠 AI & Data Science</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  </kbd>
 
-</kbd>
+  <kbd>
+    <kbd>👾 Hardware, Game Dev & Graphics</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nvidia/nvidia-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/roblox/roblox-original.svg" />
+  </kbd>
 
-<br><br>
+  <kbd>
+    <kbd>🎨 Design & Multimedia</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ffmpeg/ffmpeg-original.svg" />
+  </kbd>
 
-<kbd>
-  <kbd>🌐 Frameworks & Web Backend</kbd>
-  <br><br>
+  <kbd>
+    <kbd>⚙️ Tools & OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeberg/codeberg-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
+  </kbd>
 
-  <img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img height="30" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
-</kbd>
+<br>
 
-<br><br>
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 
-<kbd>
-  <kbd>🗄️ Database & Servers</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache%20flink&logoColor=white"/>
-
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>🛡️ Cloud, DevOps & Security</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img height="30" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"/>
-
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>🧠 AI & Data Science</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>👾 Hardware, Game Dev & Graphics</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge"/>
-  <img height="30" src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/-Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>
-
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>🎨 Design & Multimedia</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/>
-  <img height="30" src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/FFmpeg-%23171717.svg?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c"/>
-
-</kbd>
-
-<br><br>
-
-<kbd>
-  <kbd>⚙️ Tools & OS</kbd>
-  <br><br>
-
-  <img height="30" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=black"/>
-  <img height="30" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
-
-</kbd>
-
+</div>
 </div>
 
 <br>

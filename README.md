@@ -192,11 +192,9 @@ I study to understand <b>why</b>, <b>how</b>, and <b>when</b> things work.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/inseooyaa">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inseooyaa&layout=compact&langs_count=10&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
 
 </a>
 

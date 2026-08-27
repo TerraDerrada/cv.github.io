@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Fitri Yani 🧠⚡</h1>
+<h1 align="center">Hello, I'm Bayu Prasetyo 🧠⚡</h1>
 <h3 align="center">Lifelong Learner | Technology Enthusiast | Builder | Studying Is My Hobby</h3>
 
 <p align="center">

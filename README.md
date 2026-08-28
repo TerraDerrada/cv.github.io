@@ -111,7 +111,7 @@ For me, technology is not just a collection of tools. Every language, framework,
 
   <!-- ☁️ Cloud & DevOps -->
 
-  <kbd>
+  <kbd align="center">
     <kbd>☁️ Cloud, DevOps & Infrastructure</kbd>
     <br>
     <br>
@@ -128,7 +128,7 @@ For me, technology is not just a collection of tools. Every language, framework,
   </kbd>
 
 <br><br>]
-  <kbd>
+  <kbd align="center">
     <kbd>🛡️ Cybersecurity</kbd>
     <br>
     <br>
@@ -144,7 +144,7 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <br><br>
 
-  <kbd>
+  <kbd align="center">
     <kbd>🧠 AI & Machine Learning</kbd>
     <br>
     <br>
@@ -155,7 +155,7 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <br><br>
 
-  <kbd>
+  <kbd align="center">
     <kbd>👾 Game Development & Graphics</kbd>
     <br>
     <br>
@@ -169,7 +169,7 @@ For me, technology is not just a collection of tools. Every language, framework,
 <br><br>
 
 
-  <kbd>
+  <kbd align="center">
     <kbd>🎨 Design, 3D & Multimedia</kbd>
     <br>
     <br>
@@ -183,7 +183,7 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <br><br>
 
-  <kbd>
+  <kbd align="center">
     <kbd>⚙️ Tools, OS & Development Environment</kbd>
     <br>
     <br>

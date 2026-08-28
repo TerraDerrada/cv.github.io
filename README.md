@@ -127,10 +127,7 @@ For me, technology is not just a collection of tools. Every language, framework,
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/argocd/argocd-original.svg" />
   </kbd>
 
-<br><br>
-
-  <!-- 🛡️ Cybersecurity -->
-
+<br><br>]
   <kbd>
     <kbd>🛡️ Cybersecurity</kbd>
     <br>
@@ -147,8 +144,6 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <br><br>
 
-  <!-- 🧠 AI -->
-
   <kbd>
     <kbd>🧠 AI & Machine Learning</kbd>
     <br>
@@ -159,8 +154,6 @@ For me, technology is not just a collection of tools. Every language, framework,
   </kbd>
 
 <br><br>
-
-  <!-- 👾 Game Dev -->
 
   <kbd>
     <kbd>👾 Game Development & Graphics</kbd>
@@ -175,7 +168,6 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <br><br>
 
-  <!-- 🎨 Design -->
 
   <kbd>
     <kbd>🎨 Design, 3D & Multimedia</kbd>
@@ -190,8 +182,6 @@ For me, technology is not just a collection of tools. Every language, framework,
   </kbd>
 
 <br><br>
-
-  <!-- ⚙️ Tools -->
 
   <kbd>
     <kbd>⚙️ Tools, OS & Development Environment</kbd>

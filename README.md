@@ -46,158 +46,146 @@ For me, technology is not just a collection of tools. Every language, framework,
 
 <div align="center">
 
-<p style="display: inline-block;" align="center">
+<table>
+  <tr>
+    <td valign="top">
+      <kbd>
+        <kbd>⚔️ Programming Languages</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rust/rust-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/swift/swift-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/lua/lua-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" />
+      </kbd>
+    </td>
 
-  <!-- ⚔️ Programming Languages -->
+    <td valign="top">
+      <kbd>
+        <kbd>🌐 Web Development</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bun/bun-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/svelte/svelte-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/graphql/graphql-plain.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/npm/npm-original-wordmark.svg" />
+      </kbd>
+    </td>
 
-  <kbd>
-    <kbd>⚔️ Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/rust/rust-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/go/go-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/swift/swift-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/lua/lua-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" />
-  </kbd>
+    <td valign="top">
+      <kbd>
+        <kbd>🗄️ Database & Data</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oracle/oracle-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" />
+      </kbd>
+    </td>
+  </tr>
 
-<br><br>
+  <tr>
+    <td valign="top">
+      <kbd>
+        <kbd>☁️ Cloud, DevOps & Infrastructure</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/googlecloud/googlecloud-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cloudflare/cloudflare-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vercel/vercel-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jenkins/jenkins-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ansible/ansible-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/terraform/terraform-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/argocd/argocd-original.svg" />
+      </kbd>
+    </td>
 
-  <!-- 🌐 Web Development -->
+    <td valign="top">
+      <kbd>
+        <kbd>🛡️ Cybersecurity</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bash/bash-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/wireshark/wireshark-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/metasploit/metasploit-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nmap/nmap-original.svg" />
+        <br><br>
+        <b>Hack The Box • Cisco • CompTIA+</b>
+      </kbd>
+    </td>
 
-  <kbd>
-    <kbd>🌐 Web Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bun/bun-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/svelte/svelte-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/laravel/laravel-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/graphql/graphql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/npm/npm-original-wordmark.svg" />
-  </kbd>
+    <td valign="top">
+      <kbd>
+        <kbd>🧠 AI & Machine Learning</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" />
+      </kbd>
+    </td>
+  </tr>
 
-<br><br>
+  <tr>
+    <td valign="top">
+      <kbd>
+        <kbd>👾 Game Development & Graphics</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nvidia/nvidia-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opengl/opengl-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/godot/godot-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/unity/unity-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/roblox/roblox-original.svg" />
+      </kbd>
+    </td>
 
-  <!-- 🗄️ Database -->
+    <td valign="top">
+      <kbd>
+        <kbd>🎨 Design, 3D & Multimedia</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/photoshop/photoshop-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/illustrator/illustrator-plain.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/blender/blender-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/figma/figma-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/canva/canva-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ffmpeg/ffmpeg-original.svg" />
+      </kbd>
+    </td>
 
-  <kbd>
-    <kbd>🗄️ Database & Data</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oracle/oracle-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" />
-  </kbd>
-
-<br><br>
-
-  <!-- ☁️ Cloud & DevOps -->
-
-  <kbd align="center">
-    <kbd>☁️ Cloud, DevOps & Infrastructure</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/googlecloud/googlecloud-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cloudflare/cloudflare-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vercel/vercel-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jenkins/jenkins-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ansible/ansible-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/terraform/terraform-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/argocd/argocd-original.svg" />
-  </kbd>
-
-<br><br>]
-  <kbd align="center">
-    <kbd>🛡️ Cybersecurity</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/wireshark/wireshark-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/metasploit/metasploit-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nmap/nmap-original.svg" />
-    <br>
-    <br>
-    <b>Hack The Box • Cisco • CompTIA+</b>
-  </kbd>
-
-<br><br>
-
-  <kbd align="center">
-    <kbd>🧠 AI & Machine Learning</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" />
-  </kbd>
-
-<br><br>
-
-  <kbd align="center">
-    <kbd>👾 Game Development & Graphics</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nvidia/nvidia-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opengl/opengl-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/godot/godot-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/unity/unity-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/roblox/roblox-original.svg" />
-  </kbd>
-
-<br><br>
-
-
-  <kbd align="center">
-    <kbd>🎨 Design, 3D & Multimedia</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/photoshop/photoshop-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/illustrator/illustrator-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/blender/blender-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/figma/figma-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/canva/canva-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ffmpeg/ffmpeg-original.svg" />
-  </kbd>
-
-<br><br>
-
-  <kbd align="center">
-    <kbd>⚙️ Tools, OS & Development Environment</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/archlinux/archlinux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powershell/powershell-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/codeberg/codeberg-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/puppeteer/puppeteer-original.svg" />
-  </kbd>
-
-</p>
+    <td valign="top">
+      <kbd>
+        <kbd>⚙️ Tools, OS & Development Environment</kbd>
+        <br><br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/archlinux/archlinux-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/powershell/powershell-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/codeberg/codeberg-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/puppeteer/puppeteer-original.svg" />
+      </kbd>
+    </td>
+  </tr>
+</table>
 
 </div>
 
